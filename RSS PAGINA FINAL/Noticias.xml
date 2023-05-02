@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version ="2.0">
+
+<channel>
+
+<title>Noticias mediombientales </title>
+<link>https://ramieslerincon.github.io/paginaweb/</link>
+<description>Se ha lanzado un proyecto ambiental para abordar la creciente preocupación por el cambio climático y la degradación del medio ambiente. El objetivo principal del proyecto es reducir las emisiones de gases de efecto invernadero y promover prácticas sostenibles en las comunidades locales. Para lograr esto, se han establecido varias iniciativas, incluyendo la promoción del transporte sostenible, la gestión de residuos y la energía renovable. También se están llevando a cabo campañas educativas para sensibilizar a la comunidad sobre la importancia de cuidar el medio ambiente y la necesidad de tomar medidas para protegerlo. El proyecto está siendo liderado por un equipo de expertos en medio ambiente y cuenta con el apoyo de empresas locales, organizaciones no gubernamentales y el gobierno. Se espera que el proyecto tenga un impacto positivo en la calidad de vida de las personas y el medio ambiente a largo plazo.</description>
+
+<category> Noticias</category>
+<category> Medioambiente </category>
+
+
+<item>
+
+<title>"Ciudad de México prohíbe el uso de plásticos de un solo uso"</title>
+<link>https://ramieslerincon.github.io/paginaweb/</link>
+<description>
+
+La Ciudad de México ha aprobado una ley que prohíbe el uso de plásticos de un solo uso en establecimientos comerciales y en eventos públicos. La medida busca reducir la cantidad de residuos plásticos y fomentar prácticas más sostenibles.</description>
+
+
+<enclosure url="https://static.eldiario.es/clip/9306b94a-c019-4226-a1e1-81bd9d118f0b_16-9-aspect-ratio_default_0.jpg" length="181814" type="image/jpeg"/>
+      
+</item>
+<item>
+<title>"Informe de la ONU advierte sobre la pérdida acelerada de la biodiversidad"</title>
+
+<link>https://ramieslerincon.github.io/paginaweb/</link>
+<description> Un informe de la ONU señala que la pérdida de biodiversidad se está acelerando a un ritmo sin precedentes y que más de un millón de especies están en riesgo de extinción. Se insta a tomar medidas urgentes para proteger la biodiversidad y los servicios ecosistémicos que brinda a la humanidad.</description>
+
+
+<enclosure url="https://static.eldiario.es/clip/9306b94a-c019-4226-a1e1-81bd9d118f0b_16-9-aspect-ratio_default_0.jpg" length="181814" type="image/jpeg"/>
+</item>
+
+</channel>
+
+
+</rss>
